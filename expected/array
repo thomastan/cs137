@@ -1,0 +1,15 @@
+max(a, 5) = 5
+countValue (a, 5, 1) = 1
+countValue (a, 5, 0) = 0
+isSorted (a, 5) = 0
+isPermutation (a, 5) = 1
+max(b, 5) = 1
+countValue (b, 5, 1) = 1
+countValue (b, 5, 0) = 3
+isSorted (b, 5) = 1
+isPermutation (b, 5) = 0
+c[0] = 10
+c[1] = 9
+c[2] = 8
+c[3] = 7
+c[4] = 6
